@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Climate Crisis KR';
@@ -12,7 +12,7 @@ font-family: 'Climate Crisis KR';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/ClimateCrisisKR/ClimateCrisisKR.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/ClimateCrisisKR/ClimateCrisisKR.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -111,4 +111,16 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/ClimateCrisisKR/ClimateCrisisKR-1979.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/ClimateCrisisKR/ClimateCrisisKR-1979.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+안내 
+- 폰트는 OTF/TTF/WebFont 각 8개와 배리어블 폰트 1개로 이루어져있습니다. 
+- 폰트명은 ‘기후위기-한글’입니다. 
+- 개인적/상업적으로 범위 제한 없이 사용 가능합니다. 
+- 문의는 nohtype@gmail.com 또는 instagram@nohtype으로 보내주세요.
 ```
